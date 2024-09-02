@@ -1,0 +1,15 @@
+Technologies used:
+
+Android Only (for medium display size)
+
+Jetpack Compose (MVVM)
+
+Dagger Hilt ( for dependency injection )
+
+Paging 3
+
+Retrofit (for api calls)
+
+Room Database
+
+Datastore Preferences
